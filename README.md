@@ -1,7 +1,7 @@
 # CS595-01
-Experiment: Transparency of Decision tree 
-Implemented Decision tree to analyzing dataset, explored how deep the transparency of decision tree is and observed how the tree changes from different depth.
+Experiment: Transparency of Decision tree,Bernoulli Naive Bayes
+Implemented different learning model to analyzing dataset, explored how deep the transparency is
 
 Technology: Python 3.6, Scikit-learn 0.18.1. 
 
-Algorithm: Decision Tree Classifier 
+Algorithm: Decision Tree Classifier, Bernoulli Naive Bayes
